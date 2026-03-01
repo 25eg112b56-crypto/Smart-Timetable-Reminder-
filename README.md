@@ -51,9 +51,4 @@ Helps students to manage their daily study schedule efficiently and remember imp
 
  👨‍💻 Team Member: Akshara
 - Srimayi
-- Geyasree  
-
-
-
-## 📜 License
-This project is for educational and hackathon purposes.
+- Geyasree
