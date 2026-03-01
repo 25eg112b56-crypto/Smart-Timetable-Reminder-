@@ -1,8 +1,8 @@
-# 📅 Smart Timetable & Reminder Assistant
+ 📅 Smart Timetable & Reminder Assistant
 
 A web-based application that helps students automatically generate personalized study timetables and task reminders.
 
-
+---
 
  🚀 Features
 - User-friendly interface
@@ -12,14 +12,14 @@ A web-based application that helps students automatically generate personalized 
 - Break time inclusion
 - Clean UI
 
-
+---
 
  🛠 Technologies Used
 - Python
 - Streamlit
 - Datetime Module
 
-
+---
 
  📂 Project Structure
 Smart-Timetable-Assistant/
@@ -29,7 +29,7 @@ Smart-Timetable-Assistant/
 ├── requirements.txt
 └── presentation/
 
-
+---
 
  ▶ How to Run the Project
 
@@ -42,13 +42,19 @@ pip install streamlit
 Step 3: Run the App  
 streamlit run app.py  
 
-
+---
 
  📌 Use Case
 Helps students to manage their daily study schedule efficiently and remember important deadlines.
 
+---
 
+👨‍💻 Team Members
+- Akshara
+- Srimayi  
+- Geyasree  
 
- 👨‍💻 Team Member: Akshara
-- Srimayi
-- Geyasree
+---
+
+📜 License
+This project is for educational and hackathon purposes.
