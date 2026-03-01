@@ -9,6 +9,7 @@ A web-based application that helps students automatically generate personalized 
 - Smart reminders with countdown
 - Break time inclusion
 - Clean UI
+  
  🛠 Technologies Used
 - Python
 - Streamlit
